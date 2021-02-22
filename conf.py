@@ -39,6 +39,11 @@ external_links = [
         "url": "https://www.imalan.cn",
         "brief": "熊猫小A的主页。"
     }
+    {
+        "name": "网盘"
+        "url":"https://2mjxb35jkmcss.cfc-execute.bj.baidubce.com/"
+        "brief":"Onemanager"
+    }
 ]
 nav = [
     {
