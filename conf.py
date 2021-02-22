@@ -24,9 +24,9 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "穿山甲叔叔"
 email = "ztfword@foxmail.com"
-author_homepage = "https://www.imalan.cn"
+author_homepage = "https://1244919208.github.io/Blog-m/"
 description = "回收废旧大老婆二老婆"
-key_words = ['Maverick', '穿山甲叔叔', 'Galileo', 'blog']
+key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -35,9 +35,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "Lei咯",
-        "url": "https://1244919208.github.io/Blog-m/",
-        "brief": "穿山甲叔叔的主页。"
+        "name": "三無計劃",
+        "url": "https://www.imalan.cn",
+        "brief": "熊猫小A的主页。"
     }
 ]
 nav = [
