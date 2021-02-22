@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Kepler",
+    "name": "Galileo",
     "type": "local",
-    "path": "../Kepler"
+    "path": "../Galileo"
 }
 enable_jsdelivr = {
     "enabled": False,
@@ -19,14 +19,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "穿山甲老窝"
+site_name = "穿山甲小窝"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "穿山甲叔叔"
 email = "ztfword@foxmail.com"
 author_homepage = "https://1244919208.github.io/Blog-m/"
 description = "回收废旧大老婆二老婆"
-key_words = ['Maverick', '穿山甲叔叔', 'Kepler', 'blog']
+key_words = ['Maverick', '穿山甲叔叔', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
