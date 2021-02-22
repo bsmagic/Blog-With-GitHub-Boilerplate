@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Galileo",
+    "name": "Kepler",
     "type": "local",
-    "path": "../Galileo"
+    "path": "../Kepler"
 }
 enable_jsdelivr = {
     "enabled": False,
@@ -26,7 +26,7 @@ author = "穿山甲叔叔"
 email = "ztfword@foxmail.com"
 author_homepage = "https://1244919208.github.io/Blog-m/"
 description = "回收废旧大老婆二老婆"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', '穿山甲叔叔', 'Kepler', 'blog']
 language = 'zh-CN'
 external_links = [
     {
