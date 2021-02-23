@@ -28,7 +28,7 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2021-2-2T12:51+08:00"
 author = "穿山甲叔叔"
 email = "ztfword@foxmail.com"
-author_homepage = "https://1244919208.github.io/Blog-m/"
+author_homepage = "csjss.top/"
 description = "回收废旧大老婆二老婆"
 key_words = ['Maverick', '穿山甲叔叔', 'Kepler', 'blog']
 language = 'zh-CN'
@@ -78,6 +78,11 @@ social_links = [
         "name": "Weibo",
         "url": "https://weibo.com/u/6774943340/home",
         "icon": "gi gi-weibo"
+    }
+    {
+        "name": "bilibili",
+        "url": "https://space.bilibili.com/18700960",
+        "icon": "gi gi-bilibili"
     }
 ]
 

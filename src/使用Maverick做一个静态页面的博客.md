@@ -7,6 +7,7 @@ status: publish
 author: 穿山甲叔叔
 categories: 
   - Maverick
+  - GitHub
 tags:
   - Blog
   - 日记
