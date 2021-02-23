@@ -28,7 +28,7 @@ excerpt: blog
 
 ## 什么是Maverick？
 
-[Maverick]: https://github.com/AlanDecode/Maverick
+[Maverick](https://github.com/AlanDecode/Maverick)
 
 同样是由刚刚那篇文章的博主开发的基于Python的静态博客生成器
 
@@ -50,6 +50,6 @@ excerpt: blog
 
 # 参考链接
 
-[Maverick]: https://github.com/AlanDecode/Maverick
-[自动部署仓库]: https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate
+[Maverick](https://github.com/AlanDecode/Maverick)
 
+[自动部署仓](https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate)
