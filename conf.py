@@ -79,6 +79,7 @@ social_links = [
         "url": "https://weibo.com/u/6774943340/home",
         "icon": "gi gi-weibo"
     }
+    ,
     {
         "name": "bilibili",
         "url": "https://space.bilibili.com/18700960",
