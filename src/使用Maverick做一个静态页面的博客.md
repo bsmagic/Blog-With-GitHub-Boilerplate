@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 使用Maverick做一个静态页面的博客
-slug: typography
-date: 2021年2月23日 13:13:43
+slug: Use Maverick to make a static page blog
+date: 2021-2-23 13:13:43
 status: publish
 author: 穿山甲叔叔
 categories: 
@@ -10,12 +10,13 @@ categories:
 tags:
   - Blog
   - 日记
-excerpt: 
+  - GitHub
+excerpt: blog
 ---
 
 
 
-> 　　这几天一直想要做一个自己的个人网站，于是跟着网上的教学使用Hexo做了一个使用github的穿山甲小窝，却出了各种问题(生成的静态页面没有样式、为了解决没有样式的问题修改配置文件后样式有了却因为重定向的问题无法预览、皮肤不能用等等一些问题)。
+> 　　这几天一直想要做一个自己的个人网站，于是跟着网上的教学使用Hexo做了一个使用GitHub的穿山甲小窝，却出了各种问题(生成的静态页面没有样式、为了解决没有样式的问题修改配置文件后样式有了却因为重定向的问题无法预览、皮肤不能用等等一些问题)。
 
 # 为什么使用Maverick来制作？
 
