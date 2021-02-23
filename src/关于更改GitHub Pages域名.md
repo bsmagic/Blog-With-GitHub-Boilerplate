@@ -31,3 +31,6 @@ excerpt: blog
    
 
 ## 正文
+
+在域名提供商那绑定域名到GitHub的服务器地址后将CNAME文件放入static文件夹，push，等待，然后访问域名或在setting页面的Pages查看成功没
+

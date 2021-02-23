@@ -9,13 +9,13 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    # "name": "Galileo",
-    # "type": "local",
-    # "path": "../Galileo"
-    "name": "Kepler",
-    "type": "git",
-    "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
-    "branch": "latest"
+    "name": "Galileo",
+    "type": "local",
+    "path": "../Galileo"
+    # "name": "Kepler",
+    # "type": "git",
+    # "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
+    # "branch": "latest"
 }
 enable_jsdelivr = {
     "enabled": True,
@@ -30,7 +30,7 @@ author = "穿山甲叔叔"
 email = "ztfword@foxmail.com"
 author_homepage = "csjss.top/"
 description = "回收废旧大老婆二老婆"
-key_words = ['Maverick', '穿山甲叔叔', 'Kepler', 'blog']
+key_words = ['Maverick', '穿山甲叔叔', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
