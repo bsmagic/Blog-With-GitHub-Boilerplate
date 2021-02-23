@@ -2,7 +2,7 @@
 layout: post
 title: 关于更改GitHub Pages域名
 slug: About changing the GitHub Pages domain name
-date: 2021年2月23日 20:30:49
+date: 2021-2-23 20:30:49
 status: publish
 author: 穿山甲叔叔
 categories: 
