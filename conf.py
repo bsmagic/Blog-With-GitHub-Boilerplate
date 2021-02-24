@@ -90,6 +90,10 @@ social_links = [
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+
+'''
+
+footer_addon = '''
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -101,7 +105,5 @@ var _hmt = _hmt || [];
 </script>
 
 '''
-
-footer_addon = ''
 
 body_addon = ''
