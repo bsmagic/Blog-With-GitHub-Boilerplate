@@ -25,7 +25,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "穿山甲老窝"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2021-2-2T12:51+08:00"
+site_build_date = "2021-2-22 12:51+08:00"
 author = "穿山甲叔叔"
 email = "ztfword@foxmail.com"
 author_homepage = "csjss.top/"
@@ -64,6 +64,11 @@ nav = [
     {
         "name": "Todo",
         "url": "${site_prefix}category/Todo/",
+        "target": "_self"
+    },
+    {
+        "name": "公众号",
+        "url": "${site_prefix}wechat/",
         "target": "_self"
     }
 ]

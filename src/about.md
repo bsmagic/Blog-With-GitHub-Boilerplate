@@ -14,9 +14,7 @@ tags:
 
 老窝记录美好生活
 
-微信公众号：
 
-<img src="images\qrcode_for_gh_941286335e72_1280.jpg" alt="qrcode_for_gh_941286335e72_1280" style="zoom:25%;" />
 
 
 ## Contact
@@ -24,3 +22,4 @@ tags:
 Email: [EMO](ztfword@foxmail.com)
 
 Telegram：[穿山甲叔叔](https://t.me/csjsa)
+
