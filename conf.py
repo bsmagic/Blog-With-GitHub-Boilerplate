@@ -61,6 +61,11 @@ nav = [
         "url": "${site_prefix}about/",
         "target": "_self"
     }
+    {
+        "name": "Todo",
+        "url": "${site_prefix}Todo/",
+        "target": "_self"
+    }
 ]
 
 social_links = [
