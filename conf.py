@@ -101,6 +101,7 @@ social_links = [
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+<link rel="stylesheet" href="/assets/live2d/css/live2d.css" />
 '''
 
 footer_addon = '''
@@ -115,4 +116,19 @@ var _hmt = _hmt || [];
 </script>
 '''
 
-body_addon = ''
+body_addon = '''
+<div id="landlord">
+    <div class="message" style="opacity:0"></div>
+    <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+    <div class="hide-button">隐藏</div>
+</div>
+<script type="text/javascript">
+    var message_Path = '/assets/live2d/'
+    var home_Path = 'https://csjss.top/'  //此处修改为你的域名，必须带斜杠
+</script>
+<script type="text/javascript" src="/assets/live2d/js/live2d.js"></script>
+<script type="text/javascript" src="/assets/live2d/js/message.js"></script>
+<script type="text/javascript">
+    loadlive2d("live2d", "/assets/live2d/model/tia/model.json");
+</script>
+'''
