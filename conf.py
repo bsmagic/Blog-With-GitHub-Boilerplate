@@ -90,6 +90,7 @@ social_links = [
         "url": "https://space.bilibili.com/18700960",
         "icon": "gi gi-bilibili"
     }
+    
 ]
 
 head_addon = r'''
