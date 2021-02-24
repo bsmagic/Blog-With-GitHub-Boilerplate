@@ -40,8 +40,8 @@ external_links = [
     },
     {
         "name": "网盘",
-        "url": "https://2mjxb35jkmcss.cfc-execute.bj.baidubce.com/",
-        "brief":"Onemanager"
+        "url": "https://2mjxb35jkmcss.cfc-execute.bj.baidubce.com",
+        "brief":"OneManager"
     }
      
 ]
