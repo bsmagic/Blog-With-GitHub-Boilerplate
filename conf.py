@@ -63,7 +63,7 @@ nav = [
     },
     {
         "name": "Todo",
-        "url": "${site_prefix}/category/Todo/",
+        "url": "${site_prefix}category/Todo/",
         "target": "_self"
     }
 ]
