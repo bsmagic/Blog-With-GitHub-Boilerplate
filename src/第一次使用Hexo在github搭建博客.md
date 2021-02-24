@@ -1,4 +1,5 @@
 ---
+layout: Archives
 title: 第一次使用Hexo在github搭建博客
 date: 2021-02-21 19:08:06
 tags:
