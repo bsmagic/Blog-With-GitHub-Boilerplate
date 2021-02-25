@@ -9,13 +9,17 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Galileo",
-    "type": "local",
-    "path": "../Galileo"
+    # "name": "Galileo",
+    # "type": "local",
+    # "path": "../Galileo"
     # "name": "Kepler",
     # "type": "git",
     # "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
     # "branch": "latest"
+    "name": "Galileo",
+    "type": "git",
+    "url": "https://github.com/1244919208/Maverick-Theme-Galileo.git",
+    "branch": "latest"
 }
 enable_jsdelivr = {
     "enabled": True,
@@ -63,7 +67,7 @@ nav = [
     },
     {
         "name": "Todo",
-        "url": "${site_prefix}category/Todo/",
+        "url": "${site_prefix}Todo/",
         "target": "_self"
     },
     {
