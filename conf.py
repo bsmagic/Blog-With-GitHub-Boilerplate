@@ -38,13 +38,13 @@ key_words = ['Maverick', '穿山甲叔叔', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "听点啥",
+        "url": "wyy.csjss.top",
+        "brief": "Yes"
     },
     {
         "name": "网盘",
-        "url": "https://2mjxb35jkmcss.cfc-execute.bj.baidubce.com",
+        "url": "cloud.csjss.top",
         "brief":"OneManager"
     }
      
