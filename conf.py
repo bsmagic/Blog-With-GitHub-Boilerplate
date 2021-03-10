@@ -39,12 +39,12 @@ language = 'zh-CN'
 external_links = [
     {
         "name": "听点啥",
-        "url": "wyy.csjss.top",
+        "url": "https://wyy.csjss.top",
         "brief": "Yes"
     },
     {
         "name": "网盘",
-        "url": "cloud.csjss.top",
+        "url": "https://cloud.csjss.top",
         "brief":"OneManager"
     }
      
