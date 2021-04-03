@@ -1,3 +1,12 @@
+---
+layout: post
+title: Linux虚拟机
+date: 2021年4月3日18:29:33
+tags: Linux
+---
+
+
+
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.jianshu.com](https://www.jianshu.com/p/e31534077185)
 
 ![](http://upload-images.jianshu.io/upload_images/1906922-33374de68ac927b5.png)
