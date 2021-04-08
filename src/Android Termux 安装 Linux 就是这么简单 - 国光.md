@@ -1,6 +1,6 @@
 ---
-layout: Android Termux 安装 Linux
-title: Linux虚拟机
+layout: post
+title: Android Termux 安装 Linux
 date: 2021年4月8日17:57:58
 tags: Linux
 ---
