@@ -44,7 +44,7 @@ external_links = [
     },
     {
         "name": "网盘",
-        "url": "https://cloud.csjss.top",
+        "url": "https://demo.csjss.top",
         "brief":"OneManager"
     }
      
