@@ -16,6 +16,10 @@
 
 设置发布来源为 gh-pages branch，稍等片刻你就可以通过类似 `https://<用户名>.github.io/Blog-With-GitHub-Boilerplate` 这样的链接访问你的网站了。
 
+> 💡 注意：实际等待时间:按照Github官方文档，大概需要20分钟左右。
+
+
+
 ## 第二步：为仓库添加一个 token
 
 为了让 GitHub Actions 可以自动更新你的网站，需要添加一个 Token。点击[这个网址](https://github.com/settings/tokens)，点击右上角的 Generate new token，起个名字并勾选 repo 复选框：
