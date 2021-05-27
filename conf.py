@@ -14,15 +14,15 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "bsmagic/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
 site_name = "继学亡优的个人博客"
 site_logo = "${static_prefix}logo.png"
 #site_build_date = "2019-12-18T16:51+08:00"
-author = "继学亡优"
+author = "bukongzi"
 email = "bsmagic@gmail.com"
 author_homepage = "https://www.imalan.cn"
 description = "也不知甚的秋，甚的春，甚的汉，甚的秦，长则是习疏狂、躯懒散、佯妆钝，把些个人间富贵，都做了眼底浮云。"
@@ -61,19 +61,15 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/bsmagic",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/bsmagic",
         "icon": "gi gi-github"
     },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
-    }
+
 ]
 
 head_addon = r'''
